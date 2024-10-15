@@ -1,4 +1,7 @@
 # Chat-Server-Client-
 
 
-Чат (Сервер + Клиент) через TCP
+Чат (Сервер + Клиент)
+
+чат/чат - С#
+client.py, server.py - Python
